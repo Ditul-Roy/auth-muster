@@ -1,0 +1,10 @@
+.header a{
+    font-size: 24px;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 10px;
+    color: purple;
+}
+.header a:hover{
+    color: gray;
+}
